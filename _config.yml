@@ -20,7 +20,7 @@ title                    : "Oyatri's TIL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Oyatri"
-description              : "어제보다 오늘 더"
+description              : # ""
 url                      : "https://oyatri.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Oyatri"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "꾸준함의 힘"
+  bio              : "Today I Learn"
   location         : "Seoul"
   email            :
   links:
