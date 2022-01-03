@@ -13,9 +13,5 @@ main:
   
 
 # Sidebar
-docs:
-  - title: FRAMEWORK
-    children:
-      - title: "SPRING"
-        url: /_posts/framework/spring/
+
       
