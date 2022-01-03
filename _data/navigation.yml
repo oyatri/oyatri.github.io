@@ -17,4 +17,5 @@ docs:
   - title: FRAMEWORK
     children:
       - title: "SPRING"
-        url: /docs/stylesheets/
+        url: posts/framework/spring/
+        category: "spring"
