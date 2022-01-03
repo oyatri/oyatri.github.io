@@ -17,5 +17,5 @@ docs:
   - title: FRAMEWORK
     children:
       - title: "SPRING"
-        url: docs/_/framework/spring/
+        url: /docs/_pages/_categories/spring/
         category: "category-spring"
