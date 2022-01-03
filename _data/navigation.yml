@@ -17,3 +17,4 @@ docs:
   - title: FRAMEWORK
     children:
       - title: "SPRING"
+        url: /docs/stylesheets/
