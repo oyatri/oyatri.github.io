@@ -1,8 +1,9 @@
 ---
-title: "Posts by Year"
-permalink: /year-archive/
-layout: posts
+title: "SPRING FRAMEWORK"
+permalink: /spring/
+layout: category
 author_profile: true
+category: /framework/spring/
 ---
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}
@@ -10,4 +11,4 @@ author_profile: true
   {% for post in year.items %}
     {% include archive-single.html %}
   {% endfor %}
-{% endfor %}
+{% endfor %} 

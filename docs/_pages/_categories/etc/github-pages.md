@@ -1,7 +1,7 @@
 ---
+layout: archive
+permalink: /_categoris/etc/gtihub-pages/
 title: "Posts by Year"
-permalink: /year-archive/
-layout: posts
 author_profile: true
 ---
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
