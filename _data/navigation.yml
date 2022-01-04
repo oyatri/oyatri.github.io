@@ -13,5 +13,16 @@ main:
   
 
 # Sidebar
+docs:
+  - title: "FRAMEWORK"
+    children:
+      - title: "SPRING"
+        url: /docs/_pages/_categoris/framework/spring/
 
-      
+  - title: "DATABASE"
+    children:
+      - title: "MYSQL"
+        url: /docs/_pages/_categoris/database/mysql/
+  
+  - title: "ALGORITHM"
+    url: /docs/_pages/_categoris/algorithm/
