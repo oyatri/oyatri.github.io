@@ -25,15 +25,17 @@ docs:
         url: mysql/
   
   - title: "ALGORITHM"
-    url: algorithm
+    url: algorithm/
 
   - title: "LANGUAGE"
     children:
       - title: "JAVA"
         url: java/
+        category: JAVA
 
   - title: "ETC"
     children:
       - title: "Github pages"
         url: github-pages/
+        category: Github pages
        
