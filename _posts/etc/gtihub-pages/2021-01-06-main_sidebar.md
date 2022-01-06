@@ -26,7 +26,7 @@ tags: [minimal mistakes, blog, github, jekyll]
 <br>
 
 <h2>결과</h2>
-
+<br>
 <p align="center">
     <img src="/assets/img/resultSidebar.png" width="80%">
 </p>
