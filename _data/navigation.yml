@@ -17,22 +17,23 @@ docs:
   - title: "FRAMEWORK"
     children:
       - title: "SPRING"
-        url: /spring/
+        url: spring/
 
   - title: "DATABASE"
     children:
       - title: "MYSQL"
-        url: /_categoris/database/mysql/
+        url: mysql/
   
   - title: "ALGORITHM"
-    url: /_categoris/algorithm/
+    url: algorithm
 
   - title: "LANGUAGE"
     children:
       - title: "JAVA"
-        url: /_categoris/language/java/
+        url: java/
 
   - title: "ETC"
     children:
       - title: "Github pages"
-        url: /_categoris/etc/gtihub-pages/
+        url: github-pages/
+       

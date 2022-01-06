@@ -7,17 +7,15 @@ tags: [minimal mistakes, blog, github, jekyll]
 ---
 <h2>진행</h2>
 <br>
-1. `_data` > `navigation.yml` 파일에 Sidebar category 로 쓰기 위해 `"docs"` 로 명명한 코드를 작성한다.
+1 : `_data/navigation.yml` 파일에 Sidebar category 로 쓰기 위해 `"docs"` 로 명명한 코드를 작성한다.
 
 <p align="center">
     <img src="/assets/img/addCategoryNav.png" width="33%">
 </p>
 
-
 <br>
-2. `index.html` 파일에서 빨간박스 안의 내용을 추가한다.<br>
-`nav:` 에는 1에서 작성해준 `"docs"`를 입력한다.
-
+2 : `index.html` 파일에서 빨간박스 안의 내용을 추가한다.<br>
+`nav:` 에는 1: 에서 작성해준 `"docs"`를 입력한다.
 
 <p align="center">
     <img src="/assets/img/addSidebarImg.png" width="20%">
