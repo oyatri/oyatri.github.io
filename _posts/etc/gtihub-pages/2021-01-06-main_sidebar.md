@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[ Github pages ] Jekyll main 화면에서 sidebar category 출력"
+title:  "[ Github pages ] Jekyll Main 화면 Sidebar에 category 출력"
 
 category: github-pages
 tags: [minimal mistakes, blog, github, jekyll]
