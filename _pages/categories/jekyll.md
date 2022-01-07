@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: github-pages
-title: "Github pages"
+permalink: Jekyll
+title: "Jekyll"
 
 author_profile: true
 sidebar:
