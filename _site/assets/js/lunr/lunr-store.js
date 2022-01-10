@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "[ Jekyll ] Posting test",
-        "excerpt":"2022-01-10 23:02:39 +0900  2022-01-10T23:02:39+09:00  ","categories": ["Jekyll"],
+        "excerpt":"2022-01-10 23:35:14 +0900  2022-01-10T23:35:14+09:00  ","categories": ["Jekyll"],
         "tags": [],
         "url": "/jekyll/test/",
         "teaser": null
