@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: Jekyll
+permalink: jekyll
 title: "Jekyll"
 
 author_profile: true
