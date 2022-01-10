@@ -17,25 +17,25 @@ docs:
   - title: "FRAMEWORK"
     children:
       - title: "SPRING"
-        url: spring/
+        url: spring
 
   - title: "DATABASE"
     children:
       - title: "MYSQL"
-        url: mysql/
+        url: mysql
   
   - title: "ALGORITHM"
-    url: algorithm/
+    url: algorithm
 
   - title: "LANGUAGE"
     children:
       - title: "JAVA"
-        url: java/
+        url: java
         category: JAVA
 
   - title: "ETC"
     children:
       - title: "Jekyll"
-        url: jekyll/
+        url: jekyll
         category: Jekyll
        
