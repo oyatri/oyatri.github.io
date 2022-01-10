@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark",
 locale                   : "ko-KR"
 title                    : "Oyatri's TIL"
 title_separator          : "-"
-subtitle                 : #
+subtitle                 : " 사소한 것에서부터"
 name                     : #
 description              : #
 url                      : "https://oyatri.github.io"
@@ -83,7 +83,7 @@ twitter:
 facebook:
   username               :
   app_id                 :
-  publisher              :
+  publisper              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
