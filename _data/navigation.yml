@@ -18,14 +18,17 @@ docs:
     children:
       - title: "SPRING"
         url: spring
+        category: SPRING
 
   - title: "DATABASE"
     children:
       - title: "MYSQL"
         url: mysql
+        category: MYSQL
   
   - title: "ALGORITHM"
     url: algorithm
+    category: Algorithm
 
   - title: "LANGUAGE"
     children:
