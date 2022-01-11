@@ -7,16 +7,17 @@ author_profile: true
 sidebar:
   nav: "docs"
 classes: wide
-category: "SPRING"
 ---
 
 ---
 
-{% if paginator %}
+<!-- {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
   {% assign posts = site.posts %}
-{% endif %}
+{% endif %} -->
+
+{% assign posts = site.categories.SPRING %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">

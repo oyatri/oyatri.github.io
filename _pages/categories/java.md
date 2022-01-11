@@ -2,6 +2,7 @@
 layout: archive
 permalink: java
 title: "JAVA"
+category: JAVA
 
 author_profile: true
 sidebar:
@@ -9,15 +10,15 @@ sidebar:
 classes: wide
 ---
 
-
-
 ---
 
-{% if paginator %}
+<!-- {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
   {% assign posts = site.posts %}
-{% endif %}
+{% endif %} -->
+
+{% assign posts = site.categories.JAVA %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
@@ -27,3 +28,5 @@ classes: wide
 </div>
 
 {% include paginator.html %}
+
+{{paginator}}

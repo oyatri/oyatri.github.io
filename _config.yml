@@ -263,7 +263,8 @@ tag_archive:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
-#     category: /categories/:name/
+#     #category: /categories/
+#     category: /:name/
 #     tag: /tags/:name/
 
 
