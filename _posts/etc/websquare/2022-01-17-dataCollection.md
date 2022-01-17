@@ -126,6 +126,8 @@ category: Websquare
 |-|-|
 |use|true : 입력된 데이터를 실제 초기값으로 사용<br>false : Websquare의 Design 탭에만 입력된 데이터 표시|
 
+<br>
+
 ~~~html
 <w2:row> <!-- 반복 데이터를 구분하는 노드 -->
       <name>이태백</name>
