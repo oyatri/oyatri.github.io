@@ -41,4 +41,6 @@ docs:
       - title: "Jekyll"
         url: jekyll
         category: Jekyll
-       
+      - title: "Websquare UI Tool"
+        url: websquare
+        category: Websquare
