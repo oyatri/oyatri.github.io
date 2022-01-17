@@ -136,8 +136,6 @@ category: Websquare
 </w2:row>
 ~~~
 
-<br>
-
 |<center>속성<center>|<center>설명<center>|
 |-|-|
 |<열id>|각각의 열에 대한 값 설정|
