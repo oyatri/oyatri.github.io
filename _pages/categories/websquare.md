@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: websquare
-title: "Websquare UI Tool"
+title: "Websquare"
 
 author_profile: true
 sidebar:
